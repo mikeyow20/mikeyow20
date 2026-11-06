@@ -8,14 +8,14 @@
   <sub>Art by <a href="https://porforever.tumblr.com/post/141250589613/programmer-day">Porforever</a></sub>
 </p>
 
-```js
-const aboutMe = {
-  💻: "Full Stack Developer @ Conny Tech",
-  🌏: "Based in Kuala Lumpur, Malaysia",
-  🛠️: "Currently brewing: something where markets meet AI agents. Stealth mode 🔒",
-  📈: "After hours: trading stocks & crypto",
-  🏋️: "Push, Pull, Legs, Deploy, Repeat",
-  ☕: "Runtime: powered by kopi peng",
+```ts
+const mike: Developer = {
+  role: "Full Stack Developer",
+  location: "Kuala Lumpur, Malaysia 🇲🇾",
+  currentlyBuilding: "something where markets meet AI agents 🔒",
+  afterHours: ["trading stocks & crypto 📈", "push / pull / legs 🏋️"],
+  fuel: "kopi peng ☕",
+  status: () => (market.isOpen() ? "watching charts" : "shipping code"),
 };
 ```
 
