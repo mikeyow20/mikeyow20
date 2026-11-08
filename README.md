@@ -30,9 +30,11 @@ const mike: Developer = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/mikeyow20">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikeyow20&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Mike's GitHub contribution graph" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikeyow20/mikeyow20/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikeyow20/mikeyow20/output/github-snake.svg" />
+    <img alt="Snake eating Mike's GitHub contribution graph" src="https://raw.githubusercontent.com/mikeyow20/mikeyow20/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ## 📫 Connect
