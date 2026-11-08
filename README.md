@@ -27,6 +27,14 @@ const mike: Developer = {
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,kubernetes,jenkins,githubactions,gcp,azure,flutter&perline=10" />
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/mikeyow20">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikeyow20&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Mike's GitHub contribution graph" />
+  </a>
+</p>
+
 ## 📫 Connect
 
 <p align="center">
